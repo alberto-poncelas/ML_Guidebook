@@ -1,10 +1,10 @@
 # ML guidebook
 
 * Statistics
-	* [Probability and Statistics](sections/statistics)
+	* [Probability and Statistics](sections/statistics/statistics.ipynb)
 * Machine Learning
-	* ML pipeline
-	* ML methods
+	* [ML pipeline](sections/ML_methods/Machine_Learning_Pipeline.ipynb)
+	* [ML methods](sections/ML_methods/Machine_Learning_Models.ipynb)
 * Neural Networks
 	* Introduction
 	* CNN
