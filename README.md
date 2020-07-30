@@ -1,7 +1,7 @@
 # ML guidebook
 
 * Statistics
-	* Probability and Statistics
+	* [Probability and Statistics](sections/statistics)
 * Machine Learning
 	* ML pipeline
 	* ML methods
