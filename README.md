@@ -6,9 +6,9 @@
 	* [ML pipeline](sections/ML_methods/Machine_Learning_Pipeline.ipynb)
 	* [ML methods](sections/ML_methods/Machine_Learning_Models.ipynb)
 * Neural Networks
-	* Introduction
+	* [Introduction](sections/neural_network/neural_network.ipynb)
+	* [RNN](sections/neural_network/RNN.ipynb)
 	* CNN
-	* RNN
 * NLP
 	* SMT
 		* Language Model
