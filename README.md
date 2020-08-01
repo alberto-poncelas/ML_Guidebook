@@ -14,6 +14,6 @@
 		* Language Model
 		* Translation Model
 	* NMT
-		* Se2Seq models
-		* Transformer
+		* [Se2Seq models](sections/NMT/Seq2seq.ipynb)
+		* [Transformer](sections/NMT/transformer.ipynb)
 
