@@ -12,7 +12,7 @@
 * NLP
 	* SMT
 		* Language Model
-		* Translation Model
+		* [Translation Model](sections/SMT/SMT_Translation_Model.ipynb)
 	* NMT
 		* [Se2Seq models](sections/NMT/Seq2seq.ipynb)
 		* [Transformer](sections/NMT/transformer.ipynb)
